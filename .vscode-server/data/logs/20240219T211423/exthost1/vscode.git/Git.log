@@ -1,0 +1,24 @@
+2024-02-19 21:14:26.105 [info] Log level: Info
+2024-02-19 21:14:26.105 [info] Validating found git in: "git"
+2024-02-19 21:14:26.105 [info] Using git "2.34.1" from "git"
+2024-02-19 21:14:26.105 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-19 21:14:26.105 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-02-19 21:14:26.105 [info] Open repository: /home/bravucon
+2024-02-19 21:14:26.106 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-19 21:14:26.108 [info] > git config --get commit.template [8ms]
+2024-02-19 21:14:26.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-19 21:14:26.134 [info] > git rev-parse --show-toplevel [16ms]
+2024-02-19 21:14:26.145 [info] > git status -z -uall [12ms]
+2024-02-19 21:14:26.145 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-19 21:14:26.380 [info] > git config --get commit.template [191ms]
+2024-02-19 21:14:26.380 [info] > git rev-parse --show-toplevel [201ms]
+2024-02-19 21:14:26.410 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-02-19 21:14:26.426 [info] > git status -z -uall [8ms]
+2024-02-19 21:14:26.707 [info] > git show --textconv :web.html [9ms]
+2024-02-19 21:14:26.707 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-19 21:14:26.709 [info] > git ls-files --stage -- /home/bravucon/web.html [8ms]
+2024-02-19 21:14:26.714 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2024-02-19 21:14:30.220 [info] > git config --get commit.template [1ms]
+2024-02-19 21:14:30.223 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-19 21:14:30.234 [info] > git status -z -uall [6ms]
+2024-02-19 21:14:32.725 [info] > git check-ignore -v -z --stdin [1ms]

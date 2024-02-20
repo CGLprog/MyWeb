@@ -1,0 +1,13 @@
+2024-02-18 18:52:05.630 [info] 
+
+
+
+
+2024-02-18 18:52:05.630 [info] Extension host agent started.
+2024-02-18 18:52:05.630 [info] Started initializing default profile extensions in extensions installation folder. file:///home/bravucon/.vscode-server/extensions
+2024-02-18 18:52:05.637 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/bravucon/.vscode-server/extensions
+2024-02-18 18:52:05.814 [info] [127.0.0.1][97a0484b][ManagementConnection] New connection established.
+2024-02-18 18:52:06.059 [info] [127.0.0.1][d02f2089][ExtensionHostConnection] New connection established.
+2024-02-18 18:52:06.067 [info] [127.0.0.1][d02f2089][ExtensionHostConnection] <650> Launched Extension Host Process.
+2024-02-18 18:52:35.272 [info] [127.0.0.1][97a0484b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-18 18:52:35.317 [info] [127.0.0.1][d02f2089][ExtensionHostConnection] <650> Extension Host Process exited with code: 0, signal: null.

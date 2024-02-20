@@ -1,0 +1,13 @@
+2024-02-18 20:00:43.605 [info] Extension host with pid 528 started
+2024-02-18 20:00:43.626 [info] Lock '/home/bravucon/.vscode-server/data/User/workspaceStorage/9faee768327154d15fa52a5aa19fbebc/vscode.lock': Lock acquired.
+2024-02-18 20:00:43.685 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-18 20:00:43.751 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-18 20:00:43.752 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-18 20:00:44.056 [info] Eager extensions activated
+2024-02-18 20:00:44.057 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-18 20:00:44.057 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-18 20:01:22.333 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-18 20:01:22.333 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-18 20:27:46.672 [info] Extension host terminating: received terminate message from renderer
+2024-02-18 20:27:46.673 [info] Lock '/home/bravucon/.vscode-server/data/User/workspaceStorage/9faee768327154d15fa52a5aa19fbebc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-18 20:27:46.711 [info] Extension host with pid 528 exiting with code 0
